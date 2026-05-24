@@ -1,0 +1,23 @@
+{
+  "name": "Feet & Inch Length Calculator",
+  "short_name": "LengthCalc",
+  "description": "A mobile-first feet and inches calculator with add, subtract, and divide operations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-maskable.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
